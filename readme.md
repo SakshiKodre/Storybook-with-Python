@@ -1,7 +1,4 @@
-# Data Science Assignment Submission
-
-Dear TAs,
-
+# Storybook with Python
 We have used two languages for our assignment: English and Hindi.
 
 ## Instructions
